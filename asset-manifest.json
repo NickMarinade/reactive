@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/NickMarinade/reactive/static/css/main.75e27266.chunk.css",
+    "main.js": "/NickMarinade/reactive/static/js/main.ee669613.chunk.js",
+    "main.js.map": "/NickMarinade/reactive/static/js/main.ee669613.chunk.js.map",
+    "runtime-main.js": "/NickMarinade/reactive/static/js/runtime-main.a90e8baf.js",
+    "runtime-main.js.map": "/NickMarinade/reactive/static/js/runtime-main.a90e8baf.js.map",
+    "static/js/2.99ef6603.chunk.js": "/NickMarinade/reactive/static/js/2.99ef6603.chunk.js",
+    "static/js/2.99ef6603.chunk.js.map": "/NickMarinade/reactive/static/js/2.99ef6603.chunk.js.map",
+    "index.html": "/NickMarinade/reactive/index.html",
+    "static/css/main.75e27266.chunk.css.map": "/NickMarinade/reactive/static/css/main.75e27266.chunk.css.map",
+    "static/js/2.99ef6603.chunk.js.LICENSE.txt": "/NickMarinade/reactive/static/js/2.99ef6603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90e8baf.js",
+    "static/js/2.99ef6603.chunk.js",
+    "static/css/main.75e27266.chunk.css",
+    "static/js/main.ee669613.chunk.js"
+  ]
+}
